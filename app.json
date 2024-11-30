@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "Expo Starter",
+    "name": "myapp",
     "scheme": "expostarter",
     "slug": "expostarter",
     "privacy": "hidden",
     "version": "1.0.0",
     "platforms": ["android", "ios", "web"],
-    "githubUrl": "https://github.com/calebnance/expo-starter",
+    "githubUrl": "https://github.com/ghoseyy/myapp",
     "orientation": "portrait",
     "primaryColor": "#30778c",
     "icon": "src/assets/icon.png",
